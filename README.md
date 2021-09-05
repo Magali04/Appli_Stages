@@ -3,3 +3,7 @@ Ceci est une application qui vous permettra de découvrir les lieux de stages de
 
 Lien vers l'apllication :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Magali04/Appli_Stages/HEAD?urlpath=%2Fvoila%2Frender%2FLieux_de_stages.ipynb)
+
+
+Lien vers l'éditeur :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Magali04/Appli_Stages/HEAD)
